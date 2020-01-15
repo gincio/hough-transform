@@ -1,0 +1,11 @@
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+import numpy as np
+from PIL import Image
+
+img = np.array(Image.open('testbin.jpg').convert('L')
+plt.show()
+th = 128
+img_bin = (img > th) * 255
+img_bin_plot = plt.imshow(img_bin)
+plt.show()
