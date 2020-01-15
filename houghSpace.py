@@ -24,7 +24,7 @@ class HoughSpace:
         print("index " + str(ind) + " / " + str(self.r_dim))
         print("position " + str(ind / self.r_dim))
         print("length " + str(ind / self.r_dim * self.r_max))
-        return ind / self.r_dim
+        return ind / self.r_dim * self.r_max
 
     def radius2index(self,r):
         return math.floor(self.r_dim * ( 1.0 * r ) / self.r_max)
@@ -84,7 +84,7 @@ class HoughSpace:
     
     def getRadius(self,position):
         ind = position[0]
-        return self.index2radius(ind)*500
+        return self.index2radius(ind)
 
     def getLineParams(self):
         maxPos = self.getMaxPosition()

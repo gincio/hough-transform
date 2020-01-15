@@ -5,8 +5,10 @@ from houghSpace import HoughSpace
 import math
 import numpy as np
 import drawer as dr
+import sys
 
-img = Image.open('line2.jpg').convert('L')
+imgName = sys.argv[1]
+img = Image.open(imgName).convert('L')
 binimg = imgutil.binarize(img,128)
 
 #plt.show()
