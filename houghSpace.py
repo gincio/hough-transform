@@ -10,6 +10,8 @@ class HoughSpace:
         img_shape = img.shape
         self.img_width = img_shape[0]
         self.img_height = img_shape[1]
+        print('width '+ str(self.img_width))
+        print('height ' + str(self.img_height))
         # prepare variables for transform
         self.r_min = 0.0
         self.r_max = math.hypot(self.img_width, self.img_height)
@@ -22,8 +24,7 @@ class HoughSpace:
 
     def index2radius(self,ind):
         print("index " + str(ind) + " / " + str(self.r_dim))
-        print("position " + str(ind / self.r_dim))
-        print("length " + str(ind / self.r_dim * self.r_max))
+        print("radius " + str(ind / self.r_dim * self.r_max))
         return ind / self.r_dim * self.r_max
 
     def radius2index(self,r):
@@ -85,6 +86,7 @@ class HoughSpace:
     def getRadius(self,position):
         ind = position[0]
         return self.index2radius(ind)
+        return r
 
     def getLineParams(self):
         maxPos = self.getMaxPosition()
