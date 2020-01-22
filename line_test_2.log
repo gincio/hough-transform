@@ -1,0 +1,540 @@
+percent of noise: 1
+number of points of noise: 2560.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 3
+number of points of noise: 7680.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 5
+number of points of noise: 12800.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 7
+number of points of noise: 17920.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 9
+number of points of noise: 23040.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 11
+number of points of noise: 28160.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 13
+number of points of noise: 33280.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 15
+number of points of noise: 38400.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 17
+number of points of noise: 43520.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 19
+number of points of noise: 48640.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 21
+number of points of noise: 53760.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 23
+number of points of noise: 58880.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 25
+number of points of noise: 64000.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 27
+number of points of noise: 69120.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 29
+number of points of noise: 74240.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 31
+number of points of noise: 79360.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 33
+number of points of noise: 84480.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 35
+number of points of noise: 89600.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 37
+number of points of noise: 94720.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 39
+number of points of noise: 99840.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 41
+number of points of noise: 104960.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 43
+number of points of noise: 110080.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 45
+number of points of noise: 115200.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 47
+number of points of noise: 120320.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 49
+number of points of noise: 125440.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 51
+number of points of noise: 130560.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 53
+number of points of noise: 135680.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 422]
+Found line: y = 0.2773245440598384x + 40.45685596920617
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [218, 637]
+------------------------------------
+percent of noise: 55
+number of points of noise: 140800.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 57
+number of points of noise: 145920.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 59
+number of points of noise: 151040.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 61
+number of points of noise: 156160.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 63
+number of points of noise: 161280.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 65
+number of points of noise: 166400.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 67
+number of points of noise: 171520.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 69
+number of points of noise: 176640.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+------------------------------------
+percent of noise: 71
+number of points of noise: 181760.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[340, 232]
+Found line: y = -0.6248693519093275x + 400.7711697949522
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [399, 3] to [1, 637]
+------------------------------------
+percent of noise: 73
+number of points of noise: 186880.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[352, 233]
+Found line: y = -0.6188187767188066x + 413.79177107307004
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [399, 24] to [18, 637]
+------------------------------------
+percent of noise: 75
+number of points of noise: 192000.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[329, 237]
+Found line: y = -0.5949374815388933x + 382.6796316615689
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [383, 0] to [3, 637]
+------------------------------------
+percent of noise: 77
+number of points of noise: 197120.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[331, 239]
+Found line: y = -0.5831827633969806x + 383.0319329168089
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [383, 0] to [10, 637]
+------------------------------------
+percent of noise: 79
+number of points of noise: 202240.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[345, 237]
+Found line: y = -0.5949374815388933x + 401.29019125605254
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [399, 3] to [21, 637]
+------------------------------------
+percent of noise: 81
+number of points of noise: 207360.0
+[343, 180]
+Found line: y = -1.0000000000000002x + 484.8943866485121
+[338, 232]
+Found line: y = -0.6248693519093275x + 398.41369232557
+line 1: from [41, 0] to [215, 637]
+line 2: from [399, 86] to [0, 483]
+line 1: from [41, 0] to [215, 637]
+line 2: from [398, 0] to [0, 636]
+------------------------------------
+percent of noise: 83
+number of points of noise: 212480.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[328, 238]
+Found line: y = -0.5890450164205512x + 380.5322717874721
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [381, 0] to [4, 637]
+------------------------------------
+percent of noise: 85
+number of points of noise: 217600.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[343, 241]
+Found line: y = -0.5715470873652222x + 394.9234936011797
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [395, 0] to [30, 637]
+------------------------------------
+percent of noise: 87
+number of points of noise: 222720.0
+[718, 540]
+Found line: y = 0.9999999999999999x + 1015.0267335674392
+[1, 487]
+Found line: y = 0.618818776718806x + 1.1755448041848577
+line 1: from [41, 0] to [215, 637]
+line 2: from [-1, -1] to [-1, -1]
+line 1: from [41, 0] to [215, 637]
+line 2: from [1, 0] to [397, 637]
+------------------------------------
+percent of noise: 89
+number of points of noise: 227840.0
+[39, 421]
+Found line: y = 0.2726312918520948x + 40.40834439893564
+[325, 241]
+Found line: y = -0.5715470873652222x + 374.1986455404764
+line 1: from [41, 0] to [215, 637]
+line 2: from [40, 0] to [215, 637]
+line 1: from [41, 0] to [215, 637]
+line 2: from [374, 0] to [9, 637]
+------------------------------------
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 3
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 1
+sharp: 1	 blurred: 358
+sharp: 1	 blurred: 358
+sharp: 1	 blurred: 342
+sharp: 1	 blurred: 342
+sharp: 1	 blurred: 358
+sharp: 358	 blurred: 357
+sharp: 1	 blurred: 340
+sharp: 1	 blurred: 354
+sharp: 640	 blurred: 182
+sharp: 1	 blurred: 333
